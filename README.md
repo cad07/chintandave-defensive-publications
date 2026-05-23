@@ -29,10 +29,10 @@ The author claims no patent rights to the techniques disclosed in this repositor
 
 ## Index of Publications
 
-| Date | ID | Title | Format | Status |
-|------|-----|-------|--------|--------|
-| TBD | PAT-2 | Adaptive Sensitivity Configuration for Remote Examination Monitoring Systems Driven by Examination Scheme Metadata and Candidate Accommodation Declarations | PDF, DOCX, Markdown | Published |
-| TBD | PAT-3 | Candidate-Accessible Evidence Portal with Per-Signal Explanation Pipeline for Remote Examination Integrity Findings | PDF, DOCX, Markdown | Published |
+| Date | ID | Title | DOI | Format |
+|------|-----|-------|------|--------|
+| 2026-05-23 | PAT-2 | Adaptive Sensitivity Configuration for Remote Examination Monitoring Systems Driven by Examination Scheme Metadata and Candidate Accommodation Declarations | [10.5281/zenodo.20358720](https://doi.org/10.5281/zenodo.20358720) | PDF |
+| 2026-05-23 | PAT-3 | Candidate-Accessible Evidence Portal with Per-Signal Explanation Pipeline for Remote Examination Integrity Findings | [10.5281/zenodo.20358904](https://doi.org/10.5281/zenodo.20358904) | PDF |
 
 ---
 
@@ -64,9 +64,13 @@ When such requirements become binding, every proctoring vendor will need to impl
 
 If you reference these disclosures in patent prosecution, academic work, or technical literature, please cite as:
 
-> Dave, C. (2026). *[Title of disclosure]*. Defensive publication. Available at: https://github.com/cad07/chintandave-defensive-publications
+**PAT-2:**
+> Dave, C. (2026). *Adaptive Sensitivity Configuration for Remote Examination Monitoring Systems Driven by Examination Scheme Metadata and Candidate Accommodation Declarations.* Zenodo. https://doi.org/10.5281/zenodo.20358720
 
-A permanent archival copy of each disclosure is available via Zenodo with a Digital Object Identifier (DOI). DOI links will be added to this README upon Zenodo deposit.
+**PAT-3:**
+> Dave, C. (2026). *Candidate-Accessible Evidence Portal with Per-Signal Explanation Pipeline for Remote Examination Integrity Findings.* Zenodo. https://doi.org/10.5281/zenodo.20358904
+
+Permanent archival copies of both disclosures are available via Zenodo with the DOIs above. The Zenodo records are registered with DataCite and indexed by OpenAIRE, Google Scholar, and standard academic citation databases.
 
 ---
 
